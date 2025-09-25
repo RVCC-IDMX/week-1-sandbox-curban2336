@@ -1,0 +1,12 @@
+/* Paragraph styles */
+p {
+  border: #333 solid 1px;
+  background-color: aqua;
+  margin: 1rem;
+  text-align: center;
+  padding: 5rem;
+  font-size: 1em;
+  color: #333;
+  line-height: 1.6;
+  margin: 10px 0;
+}

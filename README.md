@@ -2,8 +2,8 @@
 
 ## Card Topics
 
-- Card 1: [Topic Name] - Issue #[number]
-- Card 2: [Topic Name] - Issue #[number]
+- Card 1: [CSS Loading Strategies: Inline, External, and Code Splitting] - Issue #[56]
+- Card 2: [Responsive Typography for Readability: Font Size and Line Length] - Issue #[48]
 
 ## Card 1 Learning Journey
 
